@@ -1,0 +1,22 @@
+{
+	"keywords" : [
+		"deserialization",
+		"unserialization",
+		"extraction",
+		"serialization",
+		"hydration"
+	],
+	"autoload" : {
+		"psr-4" : {
+			"FrosyaLabs\\Util\\" : "src"
+		}
+	},
+	"name" : "frosya-labs/frosya-serializard",
+	"type" : "library",
+	"description" : "Serializard inspired",
+	"license" : "MIT",
+	"require" : {
+		"php" : ">=7.0",
+		"thunderer/serializard" : "~0.3"
+	}
+}
