@@ -1,19 +1,19 @@
 {
 	"keywords" : [
 		"deserialization",
-		"unserialization",
-		"extraction",
 		"serialization",
-		"hydration"
+		"un-serialization",
+		"utilities",
+		"facades"
 	],
 	"autoload" : {
 		"psr-4" : {
 			"FrosyaLabs\\Util\\" : "src"
 		}
 	},
-	"name" : "frosya-labs/frosya-serializard",
+	"name" : "frosya-labs/util",
 	"type" : "library",
-	"description" : "Serializard inspired",
+	"description" : "Utilities developed by FrosyaLabs",
 	"license" : "MIT",
 	"require" : {
 		"php" : ">=7.0",
