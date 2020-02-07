@@ -31,7 +31,7 @@ class SerializardFacade
 
     /**
      * @param string $class   Type of hydration
-     * @param string $handler Hydration handler
+     * @param string $handler Hydration handler (please use the Serializard iface)
      */
     public function __construct($class, $handler)
     {

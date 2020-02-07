@@ -1,5 +1,5 @@
 <?php
-namespace Itats\Sim\Facades\Serializard;
+namespace FrosyaLabs\Util\Facades\Serializard;
 
 /** 
  * @author Nanang F. Rozi
